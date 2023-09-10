@@ -38,6 +38,4 @@ NoMoreWatermark is a simple Python script that helps you remove the Windows wate
 
 Use this script at your own risk. Modifying system settings can have unintended consequences, and it's essential to ensure you have appropriate permissions and backups in place.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
